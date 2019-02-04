@@ -10,4 +10,4 @@ University project.
 
 All data stuctures in this project are custom and not already made by any library.
 
-Cache structure is a hash table where in each slot there is a double linked list to hadle collitions.
+Cache structure is a hash table where in each slot there is a double linked list to hadle collisions.
